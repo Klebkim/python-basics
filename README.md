@@ -5,7 +5,7 @@ review python
 
 ## WELCOME TO MY ZOO
 Inside my zoo you can find:
-* flamingoes
+* flamingo
 * bears
 * lions
 * tigers
@@ -36,6 +36,7 @@ Inside my zoo you can find:
 * Ferret
 * Sheep
 * Goat
+* Chicken
 * Donkey
 ### Here are the major family
 * Birds
